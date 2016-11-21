@@ -1,0 +1,7 @@
+Sites a scanner : 
+ - voyages-sncf.com
+ - ryanair.com
+
+Serveur d'application :
+tomcat7
+
