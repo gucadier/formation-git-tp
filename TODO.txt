@@ -8,3 +8,6 @@ tomcat7
 Technologies Web
 JSF
 
+Application lourde : Technologie Swing
+
+
