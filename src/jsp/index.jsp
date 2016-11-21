@@ -1,1 +1,1 @@
-HTML JSP sample
+HTML JSP sample ==> Get Full Description
